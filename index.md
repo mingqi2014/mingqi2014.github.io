@@ -1,6 +1,6 @@
 ## Welcome to Mingqi's Page
 
-[editor on GitHub](https://github.com/mingqi2014/mingqi2014.github.io/edit/main/index.md) Bio: Mingqi is a Political Scientist interested in War, Conflict and Arms Control. She earned B.A., LL.B. and M.A. degrees from Tsinghua University. She has interdisciplinary interest in International Relations and Communication Studies. She speaks Mandarin Chinese, English, Korean and French. Mingqi was born and raised in Southern China.
+Bio: **Mingqi Xie** is a Political Scientist interested in War, Conflict and Arms Control. She earned B.A., LL.B. and M.A. degrees from Tsinghua University. She has interdisciplinary interest in International Relations and Communication Studies. She speaks Mandarin Chinese, English, Korean and French. Mingqi was born and raised in Southern China. She currently lives on the same planet with you.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
