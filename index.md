@@ -13,7 +13,7 @@
 **Fun Facts**: 
 1. Mingqi's two puppies are Lucky and Happy, they are both brown poodle boys.
 2. Mingqi's favorite Taylor Swift songs are *Cruel Summer*，*Getaway Car* and *Dress*. None of them deserves a music video according to Ms.Swift. 
-3. Mingqi's best friend graduated from same high school and university, whom is Mingqi's current favorite Software Engineer. If you want to be Mingqi's bestie, work hard in high school! 
+3. Mingqi's best friend graduated from same high school and university, who is Mingqi's current favorite Software Engineer. If you want to be Mingqi's bestie, work hard in high school! 
 4. Mingqi's favorite character in *Harry Potter* is Ginny Weasley Potter but she considers herself to be a Ravenclaw. 
 5. Mingqi's favorite shoe brand is *Superga*, she plans to wear a pair of white *Superga* sneakers to her own wedding.
 6. Mingqi's spiritual food is Corissant. And her spiritual self is a combination of Jack Sparrow and Mulan.
