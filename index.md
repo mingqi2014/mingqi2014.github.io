@@ -10,7 +10,13 @@
 5. Mingqi is *Yours, Mingqi* when she loves you. 
 6. Mingqi is Ms.XIE and it comes from her father's family name not her husband whom is nowhere to be found yet. If anyone of you happens to find him, ask him to contact Mingqi via [xmq14@tsinghua.org.cn](xmq14@tsinghua.org.cn) with CV and at least 3 references.
 
-**Fun Facts**: Mingqi's two puppies are Lucky and Happy, they are both brown. Mingqi's favorite Taylor Swift songs are *Cruel Summer*，*Getaway Cars* and *Dress* and none of them deserves a music video according to Ms.Swift. Mingqi's best friend graduated from the same high school and university, so if you also want to be her bestie, you better work hard in high school! Mingqi's favorite character in *Harry Potter* is Ginny Weasley but she considers herself to be a Ravenclaw. Mingqi's favorite shoe brand is *Superga*, she plans to wear a pair of *Superga* sneakers to her own wedding.
+**Fun Facts**: 
+1. Mingqi's two puppies are Lucky and Happy, they are both brown. 
+2. Mingqi's favorite Taylor Swift songs are *Cruel Summer*，*Getaway Car* and *Dress* and none of them deserves a music video according to Ms.Swift. 
+3. Mingqi's best friend graduated from the same high school and university, so if you also want to be her bestie, you better work hard in high school! 
+4. Mingqi's favorite character in *Harry Potter* is Ginny Weasley but she considers herself to be a Ravenclaw. 
+5. Mingqi's favorite shoe brand is *Superga*, she plans to wear a pair of *Superga* sneakers to her own wedding.
+6. Mingqi's spiritual food is Corissant. And her spiritual self is a combination of Jack Sparrow and Mulan.
 
 ### Publications
 
