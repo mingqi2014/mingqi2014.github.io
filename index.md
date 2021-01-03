@@ -2,16 +2,7 @@
 
 **Bio**: Mingqi Xie is a Political Scientist interested in War, Conflict and Arms Control. She earned B.A., LL.B. and M.A. degrees from Tsinghua University. She has interdisciplinary interest in International Relations and Communication Studies. She speaks Mandarin Chinese, English, Korean and French. Mingqi was born and raised in Southern China. She currently lives on the same planet with you.
 
-**Something Else**:
-Mingqi is iqginM without a cup of Americano in the morning. 
-
-Mingqi is **Xie,M.** when she writes academically. 
-
-Mingqi is !Mingqi! when she sings and dances. 
-
-Mingqi is XMQ when she codes or lazy typing.
-
-Mingqi is *Yours, Mingqi* when she loves you.
+**Something Else**: Mingqi is iqginM without a cup of Americano in the morning. Mingqi is Xie,M. when she writes academically. Mingqi is !Mingqi! when she sings and dances. Mingqi is XMQ when she codes or lazy typing. Mingqi is *Yours, Mingqi* when she loves you. Mingqi is Ms.XIE and it comes from her father's family name not her husband whom is nowhere to be found yet.
 
 ### Publications
 
