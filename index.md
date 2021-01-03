@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Mingqi's Pace
 
- [editor on GitHub](https://github.com/mingqi2014/mingqi2014.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Mingqi is a Political Scientist interested in War, Conflict and Arms Control. She [editor on GitHub](https://github.com/mingqi2014/mingqi2014.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
