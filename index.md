@@ -1,6 +1,6 @@
 ## Welcome to Mingqi's Page
 
-**Bio**: Mingqi Xie is a Political Scientist interested in War, Conflict and Arms Control. She earned B.A., LL.B. and M.A. degrees from Tsinghua University. She has interdisciplinary interest in International Relations and Communication Studies. She speaks Mandarin Chinese, English, Korean and French. Mingqi was born and raised in Southern China. She currently lives on the same planet with you.
+**Bio**: Mingqi Xie is a Political Scientist interested in War, Conflict and Arms Control. She earned B.A., LL.B. and M.A. degrees from Tsinghua University. She has interdisciplinary interest in International Relations and Communication Studies. She mostly uses two computer languages and four human languages. Mingqi was born and raised in Southern China. She currently lives on the same planet with you.
 
 **Something Else**: 
 1. Mingqi is iqginM without a cup of Americano in the morning. 
