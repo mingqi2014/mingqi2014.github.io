@@ -16,7 +16,7 @@
 3. Mingqi's best friend graduated from same high school and university, who is Mingqi's current favorite Software Engineer. If you want to be Mingqi's bestie, work hard in high school! 
 4. Mingqi's favorite character in *Harry Potter* is Ginny Weasley Potter but she considers herself to be a Ravenclaw. 
 5. Mingqi's favorite shoe brand is *Superga*, she plans to wear a pair of white *Superga* sneakers to her own wedding.
-6. Mingqi's spiritual food is Corissant. And her spiritual self is a combination of Jack Sparrow and Mulan.
+6. Mingqi's spiritual food is Croissant. And her spiritual self is a combination of Jack Sparrow and Mulan.
 7. Mingqi's life motto is *There can be miralces when you believe*.
 
 ### Publications
