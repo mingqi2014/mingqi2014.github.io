@@ -9,7 +9,7 @@ Markdown will be the main syntax applied in webpage construction. I will add mor
 
 #Human Languages and Expression
 
-English will be the main language in this website. I mostly use English, Chinese, Korean and French for work, research and daily conversation. Some content including publications and other writings may use other languages. This is a personal website but its main purpose is an academic platform for a junior scholar like me. While I treasure the very space to express myself thus more personlized expression may be presented here.
+English will be the main language in this website. I mostly use English, Chinese, Korean and French for work, research and daily conversation. Some content including publications and writings may use other languages. This is a personal website but its main purpose is an academic platform for a junior scholar like me. While I treasure the very space to express myself thus more personlized expression may be presented here.
 
 #TO DO LIST...
 
