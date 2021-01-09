@@ -15,6 +15,10 @@ English will be the main language in this website. I mostly use English, Chinese
 
 I plan to develop a diary sector for this personal page. I hope to add encrypted diary book to my website.
 
+#Copyright
+
+This is a open-source project that I am willing to share. But PLEASE ask for permission before using my personal information, including my profile, photos, online-only writings and articles.
+
 #Acknowledgement
 
 I would like to thank my friend Yuya Rui and Yekai Xu for their support.
