@@ -5,7 +5,7 @@ With the development of platforms, namely professional and private social networ
 
 #Codes and Syntax
 
-Markdown will be the main syntax applied in webpage construction. I will add more functions for possible interactions in the future, using other languages.
+Markdown will be the main syntax applied in webpage construction. I will add more functions for possible interactions in the future, using other languages. Mingqi Xie is insofar the only contributor to this project.
 
 #Human Languages and Expression
 
