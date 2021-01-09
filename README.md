@@ -17,7 +17,7 @@ I plan to develop a diary sector for this personal page. I hope to add encrypted
 
 #Copyright
 
-This is a open-source project that I am willing to share. But PLEASE ask for permission before using my personal information, including my profile, photos, online-only writings and articles.
+This is a open-source project that I am willing to share. But PLEASE ask for permission before using my personal information, including my profile, photos, online-only writings and articles. You can contact me via xmq14@tsinghua.org.cn.
 
 #Acknowledgement
 
