@@ -1,7 +1,7 @@
 # mingqi2014.github.io
 Mingqi Xie's Personal Website.
 
-With the development of platforms, namely professional and private social networking platforms,I conversely get lost in a choice of self-presenting platform. For a more simplified while personalized approach to introduce myself as a researcher and practitioner for internatinal security, I buid up this personal webpage.
+With the development of platforms, namely professional and private social networking platforms, I conversely get lost in the choice of self-presenting platform. For a more simplified while personalized approach to introduce myself as a researcher and practitioner for internatinal security, I buid up this personal webpage.
 
 #Codes and Syntax
 
