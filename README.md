@@ -5,11 +5,11 @@ With the development of platforms, namely professional and private social networ
 
 ### Codes and Syntax
 
-Markdown will be the main syntax applied in webpage construction. I will add more functions for possible interactions in the future, using other languages. Mingqi Xie is insofar the only contributor to this project.
+Markdown will be the main syntax applied in webpage construction. I will add more functions for possible interactions in the future, using other languages. I am insofar the only contributor to this project.
 
 ### Human Languages and Expression
 
-English will be the main language in this website. I mostly use English, Chinese, Korean and French for work, research and daily conversation. Some content including publications and writings may use other languages. This is a personal website but its main purpose is an academic platform for a junior scholar like me. While I treasure the very space to express myself thus more personlized expression may be presented here.
+English will be the main language in this website. I mostly use English, Chinese, Korean and French for work, research and daily conversation. Some content including publications and writings may include other languages. This is a personal website but its main purpose is an academic platform for me as a junior scholar. While I treasure the very space to express myself thus more personlized expression may be presented here.
 
 ### TO DO LIST...
 
@@ -21,6 +21,6 @@ This is a open-source project that I am willing to share. But PLEASE ask for per
 
 ### Acknowledgement
 
-I would like to thank my friends Yekai Xu and Hanjun Li for inspiring me to build up a personal webpage. And I would like to express great thanks to my friend Yuya Rui for her unconditional support during my hardest moments. I send love to my friends Yihuan Li, Fiona Feller, Soojung Roh and Min Chen for understanding me and supporting me even after knowing all of my pains which were derived from ridiculous and foolish reasons. I hereby share regards to my friend Jiayi Li for pushing me to find cure.
+I would like to thank my friends Yekai Xu and Hanjun Li for inspiring me to build up a personal webpage. And I would like to express great thanks to my friend Yuya Rui for her unconditional support during my hardest moments. I send love to my friends Yihuan Li, Fiona Feller, Soojung Roh and Min Chen for understanding me and supporting me even after knowing all of my pains. I hereby share regards to my friend Jiayi Li for pushing me to find cure.
 
 ### *Goodbye, 2020!*
