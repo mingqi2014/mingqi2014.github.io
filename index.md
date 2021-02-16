@@ -1,8 +1,8 @@
 ## Welcome to Mingqi's Page
 
-![Profile Photo of Mingqi](C:\Users\lenovo\Desk\Mingqi Xie_Profile Photo.jpg)
+![Profile Photo of Mingqi](https://media-exp1.licdn.com/dms/image/C5603AQF182SG2Kjntg/profile-displayphoto-shrink_800_800/0/1611738071237?e=1619049600&v=beta&t=BFKNEr-yE0YIY54Tf_MDS0GcGsCKTN0Jq2f2W_PtWiE)
 
-**Bio**: Mingqi Xie is a Political Scientist interested in War, Conflict and Arms Control. She earned B.A., LL.B. and M.A. degrees from Tsinghua University. She has interdisciplinary interest in International Relations and Communication Studies. She mostly uses two computer languages and four human languages. Mingqi was born and raised in Southern China. She currently lives on the same planet with you. :smiley:
+**Bio**: Mingqi Xie is a Political Scientist interested in War, Conflict and Arms Control. She earned B.A., LL.B. and M.A. degrees from Tsinghua University. She has interdisciplinary interest in International Relations and Communication Studies. She mostly uses two computer languages and four human languages. Mingqi was born and raised in Southern China. She currently lives on the same planet with you. 
 
 ### Research and Work Experience
 
