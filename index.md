@@ -2,11 +2,34 @@
 
 ![Profile Photo of Mingqi](https://media-exp1.licdn.com/dms/image/C5603AQF182SG2Kjntg/profile-displayphoto-shrink_800_800/0/1611738071237?e=1619049600&v=beta&t=BFKNEr-yE0YIY54Tf_MDS0GcGsCKTN0Jq2f2W_PtWiE)
 
-**Bio**: Mingqi Xie is a Political Scientist interested in War, Conflict and Arms Control. She earned B.A., LL.B. and M.A. degrees from Tsinghua University. She has interdisciplinary interest in International Relations and Communication Studies. She mostly uses two computer languages and four human languages. Mingqi was born and raised in Southern China. She currently lives on the same planet with you. 
+**Bio**: Mingqi Xie is a Political Scientist interested in War, Conflict and Arms Control. She received B.A., LL.B. and M.A. degrees from Tsinghua University. She has interdisciplinary interest in International Relations and Communication Studies. She mostly uses two computer languages and four human languages. Mingqi was born and raised in Southern China. She currently lives on the same planet with you. 
 
 ### Research and Work Experience
+- Carnegie Endowment for International Peace (Beijing)
+Research Intern: Carneige-Tsinghua Center“Young Ambassador Program”
+- European Forum Alpbach (Tirol, Vienna)                                                          Forum Alpbach Ambassador China
+- United Nations, Office for Disarmament Affairs (Vienna)                                       
+Political Affairs Intern at the UN Vienna headquarters
+- The South Centre, South-South Cooperation and Development Finance (Geneva) 
+South-South cooperation and Triangular Cooperation Intern
+- Center for International Strategy and Security, Tsinghua (Beijing, London) 
+Research Assistant to Ambassador Fu Ying (Center Director)
+Youth Observer for Thinktank Conference on International Studies and Youth Program Executive
+- Asia Center, Seoul National University (Seoul, Beijing)                                       
+SNU-THU cooperation program: China-Korea Conversation and East Asia Culture Studies
+Research Assistant, Teaching Assistant, and Program Associate (Funded by the Korean Foundation)
+- CGTN (China Global Television Network), China 24 (Beijing)                                     
+TV News Intern for the Internatinal Politics Sector
+Supervisor: Ms. Ling Zhang, Senior Producer. 
+- World Peace Forum
+CITIC Publishing House, Book: Diplomacy and its Protocols (London, Beijing)                   
+Book Research and Editing Intern
+Daimler Greater China, IT and Security Department (Beijing)
+Security Communication Intern 
 
 ### Publications
+- **Xie, M.**, Trilateral Relations upon Bilateral Conflicts: A Case Study of China, Japan and the Republic of Korea. *The 26th IPSA World Congress of Political Science.Accepted.*
+- **Xie, M.**, Xu, Y., Framing an Ultimate War via Political Terminology: How Thucydides’ Trap Gained Its Power. *The International Association for Media and Communication Research 2021 (IAMCR). Under Review.*
 
 **Something Else**: 
 - Mingqi is iqginM without a cup of Americano in the morning. 
